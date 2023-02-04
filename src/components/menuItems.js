@@ -1,32 +1,32 @@
 export const menuItems = [
   {
     title: "HOME",
-    link: "/home",
+    link: "/",
     icon: "home-icon.svg",
   },
   {
     title: "SEARCH",
-    link: "/search",
+    link: "/",
     icon: "search-icon.svg",
   },
   {
     title: "WATCHLIST",
-    link: "/watchlist",
+    link: "/",
     icon: "watchlist-icon.svg",
   },
   {
     title: "ORIGINALS",
-    link: "/originals",
+    link: "/",
     icon: "original-icon.svg",
   },
   {
     title: "MOVIES",
-    link: "/movies",
+    link: "/",
     icon: "movie-icon.svg",
   },
   {
     title: "SERIES",
-    link: "/series",
+    link: "/",
     icon: "series-icon.svg",
   },
 ];
